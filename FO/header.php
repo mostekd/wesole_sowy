@@ -14,22 +14,22 @@
         <ul class="menu">
             <li>
                 <a href="">Strona1</a>
+            </li>
+            <li>
+                <a href="">Galeria</a>
                 <div class="submenu">
-                    <a href="">Podstron1</a>
-                    <a href="">Podstron2</a>
-                    <a href="">Podstron3</a>
-                    <a href="">Podstron4</a>
-                    <a href="">Podstron5</a>
+                    <a href="">2017</a>
+                    <a href="">2018</a>
+                    <a href="">2019</a>
+                    <a href="">2020</a>
+                    <a href="">2021</a>
+                    <a href="">2022</a>
+                    <a href="">2023</a>
+                    <a href="">2024</a>
                 </div>
             </li>
             <li>
-                <a href="">Strona2</a>
-                <div class="submenu">
-                    <a href="">Podstrona1</a>
-                    <a href="">Podstrona2</a>
-                    <a href="">Podstrona3</a>
-                    <a href="">Podstrona4</a>
-                </div>
+                <a href="kontakt.php">Kontakt</a>
             </li>
         </ul>
     </header>
